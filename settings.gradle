@@ -1,0 +1,2 @@
+rootProject.name='MVVM Architecture(Retrofit, coroutine)'
+include ':app'
